@@ -10,3 +10,4 @@ def sort_integers(numbers):
     """
     sorted_numbers = sorted(numbers)
     return sorted_numbers
+#nie czy zastosowałem i sformatowałem to tym black ale wydaje mi sie ze tak bo odpaliłem odpowiednie wtyczki i w pisałem w konsoli 
